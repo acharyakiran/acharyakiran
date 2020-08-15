@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hey Visitor 👋
+
+✨ Thanks for checking my profile..
+
+✨ I am an Embedded Software Engineer by profession, Learnt java in my free time which I rarely used for coding. Same goes with C++.
+
+✨ I know OOPS, UML, UT etc..
+
+✨ Currently learning 'Machine Learning'... 
+
+Well, that is enough info already to start with.. We need to work togther to know each other ;)
+
+## Until then, Cya
 
 <!--
 **acharyakiran/acharyakiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
